@@ -1,0 +1,45 @@
+.container{
+    display: inline-block;
+    padding: 60px;
+    margin-left: 450px;
+   
+    
+   
+   margin-top: 70px;
+   background-image: url("https://images.unsplash.com/photo-1584270017531-bb9ef31706c7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDQ2fHx3ZWF0aGVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60");
+}
+.city{
+    font-size: 2.1em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+}
+.name{
+    font-size: 2.3em;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+.other{
+    margin-left: 75px;
+}
+.search-bar{
+    margin-left: 33px;
+}
+.inner{
+
+    display: inline-block;
+    
+    
+}
+
+body{
+    background-image: url("https://images.unsplash.com/photo-1562510950-b51be406d3d6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODZ8fHdlYXRoZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60");
+    
+}
+.nodata{
+    
+    display: inline-block;
+    
+    color: black;
+    font-size: 1.6em;
+    border-radius: 8px;
+}
